@@ -1,9 +1,10 @@
 import React from "react";
+import Friends from "./Friends";
 
 function Rightpane(props){
   return (
     <div className="col-4">
-      <h1>Righty</h1>
+      <Friends/>
     </div>
   );
 }

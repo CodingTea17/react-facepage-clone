@@ -7,7 +7,7 @@ function Middlepane(props){
   return (
     <div className="col-4">
       <Card>
-        <CardHeader>Header</CardHeader>
+        <CardHeader>Posts</CardHeader>
         <CardBody>
           <Posts/>
         </CardBody>

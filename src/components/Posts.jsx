@@ -1,6 +1,5 @@
 import React from "react";
-import { Card, CardHeader, CardBody,
-  CardTitle, CardText } from 'reactstrap';
+import { Card, CardHeader, CardBody } from 'reactstrap';
 
 function Posts(props){
   return (
